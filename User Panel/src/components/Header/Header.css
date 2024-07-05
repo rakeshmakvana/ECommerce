@@ -1,0 +1,35 @@
+.header{
+    background-color: #0078AD!important;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
+.header-btn{
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 50px;
+}
+
+.header-btn:hover{
+    background-color: #0C5273;
+}
+
+.header-sp{
+    font-size: 22px;
+}
+
+.header-src{
+    background-color: #0C5273!important;
+    border: none;
+    border-radius: 18px;
+    color: #ffffff!important;
+}
+
+.form-control::placeholder{
+    color: #ffffff;
+}
